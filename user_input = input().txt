@@ -1,0 +1,47 @@
+user_input = input()
+data = []
+
+while True :
+    class task :
+         def __init__ (self, judul, dekripsi, status):
+             self.judul = judul
+             self.deskripsi = self.deskripsi
+             self.status = status
+
+    class to_do_list :
+        def menu (self) :
+            print ("Selamat Datang di Aplikasi To-Do List Harian!")
+            print ("Menu")
+            print ("1. Tambah Tugas")
+            print ("2. Hapus Tugas")
+            print ("3. Tampilkan Daftar Tugas")
+            print ("4. Tandai Tugas sebagai Selesai")
+            print ("5. Exit")
+
+            print ("Pilihan : ", end = "")
+            user_input = int(input())
+
+        if user_input == 1 :
+            def tambah_tugas (self, judul, deskripsi, status):
+                print ("Masukan judul tugas: ", end = "")
+                judul = user_input
+                print ("Masukan deksripsi: ", end = "")
+                deskripsi = user_input
+                print (f"Tugas berhasil ditambahkan ke daftar")
+        
+        elif user_input == 2 :
+            pass
+
+        elif user_input == 3 :
+            pass
+
+        elif user_input == 4 :
+            pass
+
+        elif user_input == 5 :
+            print ("Terima kasih! Sampai jumpa")
+            break
+
+
+3. Program harus berupa menu-based interface dimana user akan berinteraksi melalui pilihan menu berikut : 
+- Tambah tugas :
