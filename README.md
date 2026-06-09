@@ -1,6 +1,8 @@
 # FIFA 22 Steam ID
 Steam ID 	: xtuyulx
+
 Steam Pass	: Steamjosstoh99
+
 Steam Email	: epicyahud@gmail.com
 Email Pass	: epictop99
 EA Pass		: Originjosstoh99
