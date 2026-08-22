@@ -1,4 +1,4 @@
-# Hi there, I'm Nicholas Calvin 👋
+# Hi there, I'm Nicholas Calvin ✌️
 ### Information Systems Graduate | Data Science | IT Enthusiast
 
 Welcome to my GitHub profile! 
