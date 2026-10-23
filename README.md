@@ -11,4 +11,4 @@ Business Intelligence Specialist | Machine Learning | Marketing Operations | Dat
 
 ##  Let's Connect
 * **Email:** nicholasclvn@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/nicholas-calvin-001dvorak/
+* **LinkedIn:** https://www.linkedin.com/in/nichoxoxo/
